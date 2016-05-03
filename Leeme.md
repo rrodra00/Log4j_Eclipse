@@ -8,6 +8,4 @@
 8º - Informamos al compilador que tiene que utilizar el fichero de configuración disponible en etc, siguiendo los pasos de la practica.
 
 
-
-
-
+https://github.com/rrodra00/Log4j_Eclipse.git
